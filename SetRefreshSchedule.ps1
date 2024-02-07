@@ -1,3 +1,4 @@
+#Install-Module -Name MicrosoftPowerBIMgmt -Force
 #Connect-PowerBIServiceAccount
 
 ### This will list out all the different workspaces, and their id's
