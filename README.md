@@ -38,7 +38,7 @@ For any questions or feedback, please contact **Harvey Data Systems**:
 
 - **Email**: [support@harveydatasystems.com](mailto:support@harveydatasystems.com)
 - **Website**: [Harvey Data Systems](https://www.harveydatasystems.com)
-- **GitHub Issues**: [Submit an Issue](https://github.com/harveydatasystems/powerbi-powershell/issues)
+- **GitHub Issues**: [Submit an Issue](https://github.com/harvey-data-systems/powerbi-powershell/issues)
 
 ## License
 
